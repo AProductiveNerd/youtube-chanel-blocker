@@ -52,6 +52,8 @@
     "SunlessKhan",
     "TechLinked",
     "Techquickie",
+
+    "Extra Credits",
     "Tom Scott",
     "Totally Not Mark",
     "Mark Rober",
@@ -127,7 +129,7 @@
         }
       }
     })();
-  }, 3000);
+  }, 8000);
 
   setInterval(() => {
     (async () => {
@@ -175,5 +177,5 @@
         }
       }
     })();
-  }, 3000);
+  }, 1000);
 })();
