@@ -1,1 +1,1 @@
-# youtube-chanel-blocker
+# youtube-channel-blocker
